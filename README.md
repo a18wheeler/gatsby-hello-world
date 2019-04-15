@@ -14,6 +14,15 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
+1.  **Make sure you have the necessary tools** 
+    
+    You can check if you already have one installed by typing in `[toolName] --version` (Use `gatsby` 
+and `node` instead of their full titles).
+    - [yarn](https://yarnpkg.com/en/)
+    - gatsby-cli (Type in `npm install -g gatsby-cli` after installing node.js)
+    - [node.js](https://nodejs.org/en/)
+    - [git](https://gitforwindows.org/) 
+
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the hello-world starter.
